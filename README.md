@@ -1,7 +1,7 @@
 <div align=center>
 <img src="https://img.shields.io/badge/Python-0098FF?style=flat-square&logo=python&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Node.js-99CC00?style=flat-square&logo=node.js&logoColor=white"/></a>&nbsp;
-<img src="https://img.shields.io/badge/go-0098FF?style=flat-square&logo=php&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/go-0098FF?style=flat-square&logo=go&logoColor=white"/></a>
 </div>
 
 <div align=center>
